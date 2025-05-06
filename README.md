@@ -4,3 +4,4 @@
 
 ### Materiais de Pesquisa
 * **[W3Schools](https://www.w3schools.com/python/python_try_except.asp)**
+* **[PyInstaller](https://pyinstaller.org/en/stable/usage.html)**
